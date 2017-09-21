@@ -1,3 +1,6 @@
 [submodule "dmz"]
 	path = dmz
 	url = https://github.com/card-io/card.io-dmz.git
+[submodule "card.io-dmz"]
+	path = card.io-dmz
+	url = https://github.com/card-io/card.io-dmz/
